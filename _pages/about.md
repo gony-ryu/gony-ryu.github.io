@@ -33,9 +33,10 @@ I’m a first-year M.S. students at Sungkyunkwan University, advised by [Prof. S
 # 💡 Project
 - Jun. 2025 – Present : **Multimodal Framework for Depression Diagnosis**  
   Funded by Ministry of Trade, Industry and Energy (MOTIE)
+- Apr. 2024 - Jul. 2024 : Improved cross-modal retrieval performance in Visually Grounded Speech (VGS) by leveraging knowledge distillation from CLIP for speech–image alignment [PDF](images/Knowledge_Transfer_from_CLIP_to_VGS.pdf)
 
 # 🎖 Honors and Awards
-- Jun. 2025 : Selected as a recipient of the [AI SeoulTech Graduate Scholarship](https://www.hissf.or.kr/programs/user/news/ssfnews/readnum.asp?idx=3993&pageno=3&searchType=&searchVal=&category=011003), awarded for outstanding research potential in AI
+- Jun. 2025 : Selected as a recipient of the [AI SeoulTech Graduate Scholarship](https://www.hissf.or.kr/home/kor/M025378985/board.do?deleteAt=N&act=detail&idx=cb00d1a0008a85e71a41b8741facbffe51c63678bfff063e79197b92ae41a0c8&searchValue1=0&searchKeyword=&pageIndex=3), awarded for outstanding research potential in AI
 
 # 📖 Educations
 - Mar. 2025 - present : Sungkyunkwan University, M.S. Student, Department of Immersive Media Engineering
