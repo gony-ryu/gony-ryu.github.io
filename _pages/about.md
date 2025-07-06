@@ -17,42 +17,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+I’m a first-year M.S. students at Sungkyunkwan University, advised by [Prof. Sungeun Hong](https://www.csehong.com/) in the [AI and Media Lab](https://aim.skku.edu/home). I’m interested in multimodal learning, audio-visual recognition, model merging, and understanding egocentric video
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Jun. 2025 : &nbsp;🎉🎉 [Task Vector Quantization for Memory-Efficient Model Merging](https://aim-skku.github.io/TVQ/) is accepted at ICCV 2025! 
+- Jun. 2025 : &nbsp;🎉🎉 I was selected as a recipient of the [AI SeoulTech Graduate Scholarship](https://www.hissf.or.kr/programs/user/news/ssfnews/read.asp?gbn_no=&idx=3952&pageno=&searchType=&searchVal=)!
 
 # 📝 Publications 
+*Denotes equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **Task Vector Quantization for Memory-Efficient Model Merging**  
+  Youngeun Kim\*, Seunghwan Lee\*, Aecheon Jung\*, Bogon Ryu, Sungeun Hong  
+  **ICCV 2025** | [[Project page](https://aim-skku.github.io/TVQ/)] | [[arXiv](https://arxiv.org/pdf/2503.06921)] | [[Code](https://github.com/AIM-SKKU/TVQ)]
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 💡 Project
+- Jun. 2025 – Present : **Multimodal Framework for Depression Diagnosis**  
+  Funded by Ministry of Trade, Industry and Energy (MOTIE)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Jun. 2025 : Selected as a recipient of the [AI SeoulTech Graduate Scholarship](https://www.hissf.or.kr/programs/user/news/ssfnews/readnum.asp?idx=3993&pageno=3&searchType=&searchVal=&category=011003), awarded for outstanding research potential in AI
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- Mar. 2025 - present : Sungkyunkwan University, M.S. Student, Department of Immersive Media Engineering
+- Mar. 2018 - Feb. 2025 : Konkuk University, Bachelor of Engineering, Computer Science and Engineering (Double Major in Electrical and Electronics Engineering)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Jul. 2024 - Feb. 2025 : Artificial Intelligence and Media Lab @ [Sungkyunkwan Univ](https://aim.skku.edu/home)
+- Jul. 2022 - Aug. 2022 : Artificial Intelligence & Machine Learning Lab @ [KAIST](https://sanctusfactory.com/u-aim/)
+- Jan. 2022 - Feb. 2022 : Signal Processing Systems Laboratory @ [Sogang Univ](https://sc.sogang.ac.kr/heart/2139.html)
