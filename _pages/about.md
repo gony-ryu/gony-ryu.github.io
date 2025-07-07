@@ -21,7 +21,7 @@ I’m a first-year M.S. students at Sungkyunkwan University, advised by [Prof. S
 
 # 🔥 News
 - Jun. 2025 : &nbsp;🎉🎉 [Task Vector Quantization for Memory-Efficient Model Merging](https://aim-skku.github.io/TVQ/) is accepted at ICCV 2025! 
-- Jun. 2025 : &nbsp;🎉🎉 I was selected as a recipient of the [AI SeoulTech Graduate Scholarship](https://www.hissf.or.kr/programs/user/news/ssfnews/read.asp?gbn_no=&idx=3952&pageno=&searchType=&searchVal=)!
+- Jun. 2025 : &nbsp;🎉🎉 I was selected as a recipient of the [AI SeoulTech Graduate Scholarship](https://www.hissf.or.kr/home/kor/M075356964/scholarship/info/view.do?idx=cb00d1a0008a85e71a41b8741facbffe0da50bb4e2a1672fcc14ff2318200bfa&idx3=cb00d1a0008a85e71a41b8741facbffe0da50bb4e2a1672fcc14ff2318200bfa&act=&tabPos3=A)!
 
 # 📝 Publications 
 *Denotes equal contribution
@@ -36,7 +36,7 @@ I’m a first-year M.S. students at Sungkyunkwan University, advised by [Prof. S
 - Apr. 2024 - Jul. 2024 : Improved cross-modal retrieval performance in Visually Grounded Speech (VGS) by leveraging knowledge distillation from CLIP for speech–image alignment [PDF](images/Knowledge_Transfer_from_CLIP_to_VGS.pdf)
 
 # 🎖 Honors and Awards
-- Jun. 2025 : Selected as a recipient of the [AI SeoulTech Graduate Scholarship](https://www.hissf.or.kr/home/kor/M025378985/board.do?deleteAt=N&act=detail&idx=cb00d1a0008a85e71a41b8741facbffe51c63678bfff063e79197b92ae41a0c8&searchValue1=0&searchKeyword=&pageIndex=3), awarded for outstanding research potential in AI
+- Jun. 2025 : Selected as a recipient of the [AI SeoulTech Graduate Scholarship](https://www.hissf.or.kr/home/kor/M075356964/scholarship/info/view.do?idx=cb00d1a0008a85e71a41b8741facbffe0da50bb4e2a1672fcc14ff2318200bfa&idx3=cb00d1a0008a85e71a41b8741facbffe0da50bb4e2a1672fcc14ff2318200bfa&act=&tabPos3=A), awarded for outstanding research potential in AI
 
 # 📖 Educations
 - Mar. 2025 - present : Sungkyunkwan University, M.S. Student, Department of Immersive Media Engineering
