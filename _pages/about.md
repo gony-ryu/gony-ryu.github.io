@@ -31,6 +31,7 @@ I’m a first-year M.S. students at Sungkyunkwan University, advised by [Prof. S
   **ICCV 2025** | [[Project page](https://aim-skku.github.io/TVQ/)] | [[arXiv](https://arxiv.org/pdf/2503.06921)] | [[Code](https://github.com/AIM-SKKU/TVQ)]
 
 # 💡 Project
+- Sep. 2025 - Aug. 2026 : **Egocentric Audio-Visual Context Understanding : Look & Listen,Think, Understand** M.S. Students Fellowship by National Research Foundation of Korea (NRF)
 - Jun. 2025 – Present : **Multimodal Framework for Depression Diagnosis**  
   Funded by Ministry of Trade, Industry and Energy (MOTIE)
 - Apr. 2024 - Jul. 2024 : Improved cross-modal retrieval performance in Visually Grounded Speech (VGS) by leveraging knowledge distillation from CLIP for speech–image alignment [PDF](images/Knowledge_Transfer_from_CLIP_to_VGS.pdf)
