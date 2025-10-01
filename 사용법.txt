@@ -28,6 +28,8 @@ git commit -m "업데이트 내용 설명"
 git push origin main
 ```
 
+**참고**: 토큰이 이미 저장되어 있어서 간단한 명령어로 가능합니다!
+
 ### 3. 사이트 확인
 - 배포 후 몇 분 후에 https://gony-ryu.github.io 에서 확인 가능
 
