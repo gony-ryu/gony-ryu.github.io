@@ -1,0 +1,110 @@
+# Jekyll 홈페이지 사용법
+
+## 📁 프로젝트 위치
+/Users/mukkbo/Desktop/goni_home/gony-ryu.github.io
+
+## 🚀 사이트 업데이트 및 배포 방법
+
+### 1. 사이트 수정하기
+- `_config.yml` - 사이트 기본 설정 (제목, 설명, 소셜 링크 등)
+- `_pages/about.md` - 메인 페이지 내용
+- `images/` - 이미지 파일들
+- `_sass/` - CSS 스타일 파일들
+
+### 2. 변경사항 저장 및 배포
+터미널에서 다음 명령어들을 순서대로 실행:
+
+```bash
+# 1. Jekyll 디렉토리로 이동
+cd /Users/mukkbo/Desktop/goni_home/gony-ryu.github.io
+
+# 2. 변경사항 스테이징
+git add .
+
+# 3. 커밋 생성
+git commit -m "업데이트 내용 설명"
+
+# 4. GitHub에 푸시 (자동 배포)
+git push origin main
+```
+
+### 3. 사이트 확인
+- 배포 후 몇 분 후에 https://gony-ryu.github.io 에서 확인 가능
+
+## 🔧 로컬에서 미리보기 (선택사항)
+
+### Jekyll 설치 (처음 한 번만)
+```bash
+# Ruby 버전 관리자 설치 (rbenv 추천)
+brew install rbenv
+
+# Ruby 설치
+rbenv install 3.0.0
+rbenv local 3.0.0
+
+# Jekyll 설치
+gem install jekyll bundler
+```
+
+### 로컬 서버 실행
+```bash
+# Jekyll 디렉토리로 이동
+cd /Users/mukkbo/Desktop/goni_home/gony-ryu.github.io
+
+# 의존성 설치
+bundle install
+
+# 로컬 서버 실행
+bundle exec jekyll serve
+# 또는
+bash run_server.sh
+```
+
+- 브라우저에서 http://127.0.0.1:4000 접속
+- 파일 수정 시 자동 새로고침
+
+## 📝 주요 파일 설명
+
+### 설정 파일
+- `_config.yml` - 사이트 전체 설정
+- `_data/navigation.yml` - 네비게이션 메뉴
+
+### 콘텐츠 파일
+- `_pages/about.md` - 메인 페이지 내용
+- `images/` - 프로필 사진, 아이콘 등
+
+### 스타일 파일
+- `_sass/` - CSS 스타일
+- `assets/css/main.scss` - 메인 스타일시트
+
+## 🎯 자주 하는 작업
+
+### 1. 프로필 정보 수정
+`_config.yml` 파일에서:
+```yaml
+author:
+  name: "이름"
+  avatar: "images/프로필사진.jpg"
+  bio: "소개글"
+  location: "위치"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/username"
+```
+
+### 2. 페이지 내용 수정
+`_pages/about.md` 파일에서 마크다운으로 내용 작성
+
+### 3. 이미지 추가
+`images/` 폴더에 이미지 파일 추가 후 마크다운에서 참조
+
+## ⚠️ 주의사항
+- 커밋 메시지는 변경사항을 명확히 설명
+- 이미지는 적절한 크기로 최적화
+- 설정 변경 후 반드시 로컬에서 테스트
+
+## 🔗 유용한 링크
+- GitHub 저장소: https://github.com/gony-ryu/gony-ryu.github.io
+- 배포된 사이트: https://gony-ryu.github.io
+- Jekyll 공식 문서: https://jekyllrb.com/docs/
