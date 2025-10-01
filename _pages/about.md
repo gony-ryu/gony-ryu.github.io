@@ -37,7 +37,7 @@ I’m a first-year M.S. students at Sungkyunkwan University, advised by [Prof. S
 - Apr. 2024 - Jul. 2024 : Improved cross-modal retrieval performance in Visually Grounded Speech (VGS) by leveraging knowledge distillation from CLIP for speech–image alignment [PDF](images/Knowledge_Transfer_from_CLIP_to_VGS.pdf)
 
 # 🎖 Honors and Awards
-- Sep. 2025 : Best Poster Award at the [35th Annual Conference on Intelligent Signal Processing](https://www.theieie.org/events/?part=02&c_id=954)(제35회 인공지능신호처리학술대회)
+- Sep. 2025 : Best Poster Award at the [35th Artificial Intelligence Signal Processing](https://www.theieie.org/events/?part=02&c_id=954)(제35회 인공지능신호처리학술대회)
 - Jun. 2025 : Selected as a recipient of the [AI SeoulTech Graduate Scholarship](https://www.hissf.or.kr/home/kor/M075356964/scholarship/info/view.do?idx=cb00d1a0008a85e71a41b8741facbffe0da50bb4e2a1672fcc14ff2318200bfa&idx3=cb00d1a0008a85e71a41b8741facbffe0da50bb4e2a1672fcc14ff2318200bfa&act=&tabPos3=A), awarded for outstanding research potential in AI
 
 # 📖 Educations
