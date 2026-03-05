@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a first-year M.S. students at Sungkyunkwan University, advised by [Prof. Sungeun Hong](https://www.csehong.com/) in the [AI and Media Lab](https://aim.skku.edu/home). I’m interested in multimodal learning, audio-visual recognition, model merging, and understanding egocentric video
+I’m a second-year M.S. students at Sungkyunkwan University, advised by [Prof. Sungeun Hong](https://www.csehong.com/) in the [AI and Media Lab](https://aim.skku.edu/home). I’m interested in multimodal learning, audio-visual recognition, model merging, and understanding egocentric video
 
 # 🔥 News
 - Jun. 2025 : &nbsp;🎉🎉 [Task Vector Quantization for Memory-Efficient Model Merging](https://aim-skku.github.io/TVQ/) is accepted at ICCV 2025! 
